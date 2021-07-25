@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/thomas-portfolio/static/css/main.09163176.chunk.css",
+    "main.js": "/thomas-portfolio/static/js/main.4f7d81f8.chunk.js",
+    "main.js.map": "/thomas-portfolio/static/js/main.4f7d81f8.chunk.js.map",
+    "runtime-main.js": "/thomas-portfolio/static/js/runtime-main.8ef49afd.js",
+    "runtime-main.js.map": "/thomas-portfolio/static/js/runtime-main.8ef49afd.js.map",
+    "static/js/2.b09a7fa8.chunk.js": "/thomas-portfolio/static/js/2.b09a7fa8.chunk.js",
+    "static/js/2.b09a7fa8.chunk.js.map": "/thomas-portfolio/static/js/2.b09a7fa8.chunk.js.map",
+    "index.html": "/thomas-portfolio/index.html",
+    "static/css/main.09163176.chunk.css.map": "/thomas-portfolio/static/css/main.09163176.chunk.css.map",
+    "static/js/2.b09a7fa8.chunk.js.LICENSE.txt": "/thomas-portfolio/static/js/2.b09a7fa8.chunk.js.LICENSE.txt",
+    "static/media/Code Quiz.177f1786.png": "/thomas-portfolio/static/media/Code Quiz.177f1786.png",
+    "static/media/Nutricalifide.7e17e26b.PNG": "/thomas-portfolio/static/media/Nutricalifide.7e17e26b.PNG",
+    "static/media/The Plug Select.40d5cc9a.PNG": "/thomas-portfolio/static/media/The Plug Select.40d5cc9a.PNG",
+    "static/media/background.cd04c04b.jpg": "/thomas-portfolio/static/media/background.cd04c04b.jpg",
+    "static/media/portfoliopic.40686f7c.jpg": "/thomas-portfolio/static/media/portfoliopic.40686f7c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ef49afd.js",
+    "static/js/2.b09a7fa8.chunk.js",
+    "static/css/main.09163176.chunk.css",
+    "static/js/main.4f7d81f8.chunk.js"
+  ]
+}
